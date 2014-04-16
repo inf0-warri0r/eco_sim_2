@@ -2,7 +2,7 @@
 Author : tharindra galahena (inf0_warri0r)
 Project: artificial life simulation #2
 Blog   : http://www.inf0warri0r.blogspot.com
-Date   : 29/08/2013
+Date   : 16/04/2014
 License:
 
 	 Copyright 2014 Tharindra Galahena
